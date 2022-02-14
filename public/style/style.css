@@ -1,0 +1,21 @@
+* {
+  background-color: #f4f4f7;
+  color: #333;
+  border: 0;
+  padding: 0;
+}
+
+:root {
+  --baseBlackColor: #15104e;
+  --azulPadrao: #1e2587;
+  --baseBackColor: #2a2a3b;
+}
+
+.btn {
+  border-left: #333 10px solid;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: #111 !important;
+  color: #f4f4f7;
+}

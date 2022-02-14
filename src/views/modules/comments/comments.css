@@ -1,0 +1,41 @@
+.commnets {
+  margin-left: 10rem;
+}
+
+.comDetails {
+  display: flex;
+  flex-direction: column;
+  background-color: #555;
+  color: #fff;
+  margin-bottom: 2em;
+}
+
+.comDetails section {
+  padding: 0.5em;
+  background-color: #999;
+  margin-bottom: 10px;
+  border-top: 1px solid #888;
+  font-size: 1, 2em;
+  font-weight: bold;
+  z-index: 30;
+  border-bottom: 1px #fff solid;
+}
+
+.faceimg {
+  max-width: 30px;
+  max-height: 30px;
+  margin-right: 1em;
+  border-radius: 50%;
+  border: none !important;
+}
+
+.bodyComment {
+  padding: 10px;
+  margin-bottom: 1em;
+  background-color: transparent;
+  color: #fff;
+}
+
+.hidden {
+  display: none;
+}

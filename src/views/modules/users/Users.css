@@ -1,0 +1,47 @@
+:root {
+  --baseBlackColor: #15104e;
+  --azulPadrao: #1e2587;
+  --baseBackColor: #2a2a3b;
+}
+h2 {
+  padding: 1em;
+}
+
+.container {
+  margin-top: 1em;
+  justify-content: center;
+  background-color: #fff;
+  box-shadow: 2px 2px 10px #555;
+  padding: 2em;
+}
+.userlist {
+  list-style-type: none;
+  padding: 0.3em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 500px;
+  margin: 0 auto;
+  margin-top: 0.5em;
+  color: #222;
+  box-shadow: 2px 3px 10px #555;
+}
+a {
+  text-decoration: none;
+  background-color: transparent;
+  font-size: 1.3em;
+  color: #222;
+}
+a:hover {
+  font-weight: bold;
+}
+.name {
+  min-width: 60%;
+  background-color: transparent;
+  color: #222;
+  font-weight: bold;
+  margin-left: 3em;
+  justify-content: center;
+  vertical-align: middle;
+  padding: 10px;
+}

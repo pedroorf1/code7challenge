@@ -1,0 +1,23 @@
+.userdetails {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  background-color: transparent;
+  color: #555;
+  margin: 0 auto;
+}
+
+span {
+  font-size: 1.1em;
+  font-weight: bold;
+  padding: 0.2em;
+  margin-left: 1em;
+  margin-right: 0;
+}
+li {
+  list-style-type: none;
+}
+h2 {
+  background-color: #999999;
+}

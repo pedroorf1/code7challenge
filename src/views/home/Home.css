@@ -1,0 +1,45 @@
+:root {
+  --baseBlackColor: #15104e;
+  --azulPadrao: #1e2587;
+  --baseBackColor: #2a2a3b;
+}
+
+.home {
+  width: 100%;
+  position: relative;
+  top: 1em;
+  height: 1500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.banner {
+  max-width: 50%;
+  justify-content: center;
+}
+
+.collorPadrao {
+  color: var(--baseBlackColor);
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  margin-top: 25%;
+  font-family: Ubuntu;
+}
+
+.azulPadrao {
+  color: var(--azulPadrao);
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.TextCollor {
+  padding: 1em;
+  margin: 0 1em 0 1em;
+  font-size: 1.5em;
+  color: #555;
+  text-align: left;
+  font-family: Ubuntu;
+}
