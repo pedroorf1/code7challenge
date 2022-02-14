@@ -28,14 +28,19 @@ lista de usuários usando a API fake JSONPlaceholder
 ####npm/yar start
 
 ![screens](screens/face1.png)
+###Menu Users para a ação inicial
 
 ![screens](screens/users.png)
+###Será mostrada a lista de usuários onde você ver os detalhes do usuário ou ir para os posts do usuário
 
 ![screens](screens/userdetails.png)
+###Nos detalhes você pode acessar a página do usuário ou mesmo sua localização ditamente linkadas
 
 ![screens](screens/userposts.png)
+###Menu Nos posstes do usuário você pode ver os postes do usuario e pode abrir os comentarios do poste específico clicando em 'click here to see/hide comments'
 
 ![screens](screens/userpostscomments.png)
+###Menu Clicando em 'click here to see/hide comments' serão listados os comentarios do poste especifico
 
 
 
