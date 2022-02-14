@@ -31,7 +31,7 @@ lista de usuários usando a API fake JSONPlaceholder
 ###Menu Users para a ação inicial
 
 ![screens](screens/users.png)
-###Será mostrada a lista de usuários onde você ver os detalhes do usuário ou ir para os posts do usuário
+###Será mostrada a lista de usuários onde você poderá ver os detalhes do usuário ou ir para os posts do usuário
 
 ![screens](screens/userdetails.png)
 ###Nos detalhes você pode acessar a página do usuário ou mesmo sua localização ditamente linkadas
