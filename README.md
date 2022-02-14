@@ -29,6 +29,14 @@ lista de usuários usando a API fake JSONPlaceholder
 
 ![screens](screens/face1.png)
 
+![screens](screens/users.png)
+
+![screens](screens/userdetails.png)
+
+![screens](screens/userposts.png)
+
+![screens](screens/userpostscomments.png)
+
 
 
 
