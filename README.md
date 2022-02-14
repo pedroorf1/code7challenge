@@ -27,6 +27,7 @@ lista de usuários usando a API fake JSONPlaceholder
 
 ####npm/yar start
 
+![screens](face1.png)
 
 
 
